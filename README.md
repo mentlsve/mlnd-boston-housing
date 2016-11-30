@@ -17,6 +17,6 @@ This project uses the following software and Python libraries:
 * matplotlib
 * Jupyter Notebook
 
-### Project Submission
+### Results
 
-The project submission is available as [html] (../boston_housing.html) 
+The project submission is available as [html] (../blob/master/boston_housing.html) (Save link as ...)
